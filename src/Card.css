@@ -1,0 +1,15 @@
+h2 {
+    font-family: 'Indie Flower', cursive;
+}
+
+button {
+    background: linear-gradient(to right, rgb(6, 55, 132), rgb(137, 158, 151));
+    border: 0ch;
+
+}
+
+input {
+    background: linear-gradient(to right, rgb(130, 249, 219), rgb(131, 132, 191));
+
+}
+
